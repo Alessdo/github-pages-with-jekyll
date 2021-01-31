@@ -1,3 +1,3 @@
 # Welcome to my blog
-<h1>Alessandro Dorelli</h1>
+Alessandro Dorelli
 I'm glad you are here. I plan to talk about ...
